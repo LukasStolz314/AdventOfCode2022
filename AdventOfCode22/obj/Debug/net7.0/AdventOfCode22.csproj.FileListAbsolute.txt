@@ -1,0 +1,15 @@
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/bin/Debug/net7.0/AdventOfCode22
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/bin/Debug/net7.0/AdventOfCode22.deps.json
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/bin/Debug/net7.0/AdventOfCode22.runtimeconfig.json
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/bin/Debug/net7.0/AdventOfCode22.dll
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/bin/Debug/net7.0/AdventOfCode22.pdb
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.csproj.AssemblyReference.cache
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.AssemblyInfoInputs.cache
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.AssemblyInfo.cs
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.csproj.CoreCompileInputs.cache
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.dll
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/refint/AdventOfCode22.dll
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.pdb
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/AdventOfCode22.genruntimeconfig.cache
+/Users/lukasstolz/development/proj/AdventOfCode22/AdventOfCode22/obj/Debug/net7.0/ref/AdventOfCode22.dll
