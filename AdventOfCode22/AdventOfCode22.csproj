@@ -9,8 +9,15 @@
 
   <ItemGroup>
     <None Remove="Challenges\" />
+    <None Remove="Inputs\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Challenges\" />
+    <Folder Include="Inputs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Inputs\Input1.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>
