@@ -40,12 +40,7 @@ namespace AdventOfCode22.Challenges
         }
 
         private Int32 GetResultValues(Char item)
-        {
-            var result = Char.IsUpper(item) ? 26 : 0;
-            result += (Int32)Char.ToLower(item) - 96;
-
-            return result;
-        }
+            => (Int32) Char.ToLower(item) - 96 + (Char.IsUpper(item) ? 26 : 0);
     }
 }
 
